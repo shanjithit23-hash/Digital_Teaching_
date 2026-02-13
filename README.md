@@ -77,3 +77,24 @@ The system supports evidence-based decision-making through configurable metrics,
 ---
 
 ## Project Structure
+digital-teaching-effectiveness-benchmarking-tool/
+├── backend/
+│ ├── src/main/java/
+│ │ ├── config/
+│ │ ├── controller/
+│ │ ├── service/
+│ │ ├── repository/
+│ │ ├── model/
+│ │ └── security/
+│ └── application.yml
+│
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── services/
+│ │ ├── hooks/
+│ │ └── utils/
+│ └── package.json
+│
+└── README.md
